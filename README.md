@@ -34,3 +34,4 @@ Plus qu'à entrer les différente ulr du de flask pour acceder à notre chat.
 
 
 Il n'y a pas de sécurisation de l'application
+Les données sont accessibles
