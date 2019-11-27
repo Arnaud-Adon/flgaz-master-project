@@ -23,7 +23,7 @@ Utilisation gratuite est limité ( nombres de console ...)
 
 # Quelles difficultés avez-vous rencontrées ?
 
-Plus qu'à entrer les différente ulr du de flask pour acceder à notre chat.
+- Aucune
 
 # Quels sont, selon vous, les aspects techniques limitants du projet FLGAZ dans l'état initial ?
 
@@ -31,7 +31,6 @@ Plus qu'à entrer les différente ulr du de flask pour acceder à notre chat.
 - interface graphique à améliorer
 
 # Quelles sont, selon vous, les menaces auxquelles un tel projet peut être soumis ?
-
 
 Il n'y a pas de sécurisation de l'application
 Les données sont accessibles
